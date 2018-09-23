@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-welcome to j2EE
+welcome to j2EE.
 </body>
 </html>
